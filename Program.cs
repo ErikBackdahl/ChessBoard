@@ -28,6 +28,7 @@ namespace ChessBoard
                 }
             }
 
+
             //creates the chessboard
             
             for (int i = 0; i <size; i++)
